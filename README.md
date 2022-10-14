@@ -16,7 +16,7 @@
   <img align="center" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
  </div><br/>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCMessias&layout=compact)](https://github.com/JoseCMessias)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCMessias&layout=compact)](https://github.com/JoseCMessias?tab=repositories)
 
 ## Perfil
 - Me chamo Messias e tenho 26. Atualmente estou cursando TI e sou um apaixonado por tecnologias e inovações.
