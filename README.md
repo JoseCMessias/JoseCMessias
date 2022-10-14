@@ -41,6 +41,7 @@
 - Jogos Online
 - Animes
 
+<br/>
 <div align="center">
 
   ![Snake animation](https://github.com/JoseCMessias/JoseCMessias/blob/output/github-contribution-grid-snake.svg)
