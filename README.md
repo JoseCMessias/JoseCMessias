@@ -1,4 +1,5 @@
-### Olá! Eu sou o José Messias👋
+<h1 align="left">Olá! Eu sou o José Messias!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><br><br>Me chamo Thiago Nascimento, e esse é o meu perfil!!</h1
+
 
 ## Meus Contatos:
 
