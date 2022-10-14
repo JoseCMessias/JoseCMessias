@@ -4,20 +4,12 @@
 
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Olá;me+chamo+José+Messias;sou+Back-end+Developer;e+esse+é+o+meu+Perfil)](https://github.com/JoseCMessias)
+
  
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Jose+Messias;Messias;Back-end+Developer)](https://github.com/JoseCMessias)
-
- 
-
  </div>
 
-
-<h1 align="left">Olá! Eu sou o José Messias!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="25px"><br>
-
-
-
-## Meus Contatos:
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josemessias-)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josecmessias22@gmail.com)
@@ -56,3 +48,9 @@
 - Jiu Jitsu
 - Jogos Online
 - Animes
+
+
+
+
+ 
+
