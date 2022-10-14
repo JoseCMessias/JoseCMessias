@@ -17,7 +17,7 @@
  </div><br/>
 
 ## Perfil
-- Me chamo Messias, tenho 26, estou cursando TI e sou um apaixonado por tecnologias e inovações.
+- Me chamo Messias, tenho 26. Atualmente estou cursando TI e sou um apaixonado por tecnologias e inovações.
 
 ## Cursando
 - Análise e Desenvolvimento de Sistemas - Estácio de Sá
