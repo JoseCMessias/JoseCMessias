@@ -9,7 +9,7 @@
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:josecmessias22@outlook.com.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://https://github.com/JoseCMessias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseCMessias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCMessias&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
