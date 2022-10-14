@@ -5,7 +5,7 @@
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Olá;me+chamo+José+Messias;sou+Back-end+Developer;e+esse+é+o+meu+Perfil)](https://github.com/JoseCMessias)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Olá;Me+chamo+José+Messias;Sou+Back-end+Developer;e+esse+é+o+meu+Perfil)](https://github.com/JoseCMessias)
 
  
  </div>
