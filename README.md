@@ -30,7 +30,7 @@
 
 ## Perfil
 - Me chamo Messias e tenho 26. Atualmente estou cursando TI e sou um apaixonado por tecnologias e inovações.
-- Meu Objetivo profissional é poder facilitar e melhorar as vidas das pessoas por intermedio da tecnologia.
+- Meu Objetivo profissional é poder facilitar e melhorar a vida das pessoas por intermedio da tecnologia.
 
 ## Cursando
 - Análise e Desenvolvimento de Sistemas - Estácio de Sá
