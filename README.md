@@ -20,7 +20,7 @@
 
 ## Cursando
 - Análise e Desenvolvimento de Sistemas - Estácio de Sá
-- Programador Back-end C# - SENAI SP
+- Programador Back-end - SENAI SP
 
 ## Hobbies
 - Jiu Jitsu
