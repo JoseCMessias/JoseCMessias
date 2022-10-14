@@ -6,7 +6,12 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josemessias-)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josecmessias22@gmail.com)
 
-![Messias GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseCMessias&show_icons=true&theme=tokyonight)
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseCMessias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCMessias&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
 
 ## Tecnologias que eu estudo
 
@@ -15,8 +20,6 @@
  <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img align="center" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
  </div><br/>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCMessias&layout=compact)](https://github.com/JoseCMessias?tab=repositories)
 
 ## Perfil
 - Me chamo Messias e tenho 26. Atualmente estou cursando TI e sou um apaixonado por tecnologias e inovações.
