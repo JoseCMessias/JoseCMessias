@@ -15,7 +15,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josecmessias22@gmail.com)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:josecmessias22@outlook.com.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)
 
-## Tecnologias que eu estudo
+## Tecnologias
 <div style="display: inline_block"><br/>
 <a href="https://github.com/JoseCMessias">
  <img align="center" alt="C-Sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
