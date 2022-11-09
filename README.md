@@ -38,6 +38,7 @@
 ## Cursando
 - Análise e Desenvolvimento de Sistemas - Estácio de Sá
 - Programador Back-end - SENAI SP
+- Programador Web - IFRS
 
 ## Hobbies
 - Jiu Jitsu
