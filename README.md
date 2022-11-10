@@ -1,6 +1,9 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06cd9c&vCenter=true&width=600&height=70&lines=Olá;Me+chamo+José+Messias;e+esse+é+o+meu+Perfil)](https://github.com/JoseCMessias)
+<h3 align="center"> <img width="25" src="left.gif"> Olá, esse é o meu Perfil <img width="25" src="right.gif"></h3>
+Me chamo Messias e sou desevolvedor .NET. Sou um apaixonado por tecnologias e inovações e tenho como objetivo profissional, facilitar e melhorar a vida das pessoas por intermedio da tecnologia.
+
+<h2 align="center"><img width="200" src="lang.gif"></h2>
 
 <div align="center">
 <a href="https://github.com/JoseCMessias">
@@ -29,10 +32,6 @@
 ## Sistema Operacional
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/JoseCMessias)
 
-## Perfil <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
-- Me chamo Messias e tenho 26. Atualmente estou cursando TI e sou um apaixonado por tecnologias e inovações.
-- Meu Objetivo profissional é poder facilitar e melhorar a vida das pessoas por intermedio da tecnologia.
-
 ## Cursando <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 - Análise e Desenvolvimento de Sistemas - Estácio de Sá
 - Programador Back-end - SENAI SP
@@ -46,7 +45,7 @@
 <br/>
 <div align="center">
 
-  ![Snake animation](https://github.com/JoseCMessias/JoseCMessias/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JoseCMessias/JoseCMessias/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
