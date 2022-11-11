@@ -32,7 +32,7 @@ Me chamo Messias e sou desevolvedor .NET. Sou um apaixonado por tecnologias e in
 ## Sistema Operacional 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/JoseCMessias)
 
-## Cursando <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+## Cursos <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 - Análise e Desenvolvimento de Sistemas - Estácio de Sá
 - Programador Back-end - SENAI SP
 - Programador Web - IFRS
