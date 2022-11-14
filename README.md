@@ -42,6 +42,8 @@ Me chamo Messias e sou desevolvedor .NET. Sou um apaixonado por tecnologias e in
 - Jogos Online
 - Animes
 
+<h2 align="center"><img width="200" src="lang.gif"></h2>
+
 <br/>
 <div align="center">
 
