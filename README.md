@@ -1,7 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
 <h3 align="center"> <img width="25" src="left.gif"> Olá <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'> esse é o meu Perfil <img width="25" src="right.gif"></h3>
-Me chamo Messias e sou Programador .NET. Sou um apaixonado por tecnologias e inovações e tenho como objetivo profissional, facilitar e melhorar a vida das pessoas por intermedio da tecnologia.
+Me chamo Messias e sou Programador .NET. Sou um apaixonado por tecnologias e inovações e tenho como objetivo profissional, melhorar a vida das pessoas por intermedio da tecnologia.
 
 <h2 align="center"><img width="200" src="lang.gif"></h2>
 
