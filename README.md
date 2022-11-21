@@ -10,12 +10,6 @@ Me chamo Messias e sou Programador .NET. Sou um apaixonado por tecnologias e ino
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseCMessias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCMessias&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-    
-<div align="center">
-
-![Snake animation](https://github.com/JoseCMessias/JoseCMessias/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ## Contatos  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center"></h3>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josemessias-)
@@ -41,5 +35,9 @@ Me chamo Messias e sou Programador .NET. Sou um apaixonado por tecnologias e ino
 <h2 align="center"><img width="200" src="lang.gif"></h2>
 
 <br/>
+    
+<div align="center">
+![Snake animation](https://github.com/JoseCMessias/JoseCMessias/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
