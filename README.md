@@ -29,18 +29,8 @@ Me chamo Messias e sou Programador .NET. Sou um apaixonado por tecnologias e ino
 <img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div><br/>
     
-## Sistema Operacional 
+## Sistema Operacional <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/JoseCMessias)
-
-## Cursos <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
-- Análise e Desenvolvimento de Sistemas - Estácio de Sá
-- Programador Back-end - SENAI SP
-- Programador Web - IFRS
-
-## Hobbies <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
-- Jiu Jitsu
-- Jogos Online
-- Animes
 
 <h2 align="center"><img width="200" src="lang.gif"></h2>
 
