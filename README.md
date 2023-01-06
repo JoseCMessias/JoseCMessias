@@ -35,7 +35,5 @@
 <h2 align="center"><img width="200" src="lang.gif"></h2>
 
 <br/>
-      
 ![Snake animation](https://github.com/JoseCMessias/JoseCMessias/blob/output/github-contribution-grid-snake.svg)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
