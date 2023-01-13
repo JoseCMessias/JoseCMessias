@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
-<h3 align="center"><img width="25" src="left.gif"> Olá <picture><img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'></picture> esse é o meu Perfil <img width="25" src="right.gif"></h3>
+<h3 align="center"><img width="25" src="left.gif"> Olá <picture> <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'></picture> esse é o meu Perfil <img width="25" src="right.gif"></h3>
 <h3 align="center"> Me chamo José Messias e sou Back-end Developer <picture><img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp"> <img width="25" src="right.gif"></picture> 
 
 <img align=center src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
