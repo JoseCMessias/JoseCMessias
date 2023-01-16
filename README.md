@@ -1,7 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
 <h3 align="center"><img width="25" src="left.gif"> Olá <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'> esse é o meu Perfil <img width="25" src="right.gif"></h3>
-<h3 align="center"> Me chamo José Messias e sou Back-end Developer <picture><img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp"> <img width="25" src="right.gif"></picture> 
+<h3 align="center"> Me chamo José Messias e sou Back-end Developer <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp"> <img width="25" src="right.gif">
 
 <img align=center src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 <h2 align="center"><img width="200" src="lang.gif"></h2>
@@ -9,8 +9,7 @@
 <div align="center">
 <a href="https://github.com/JoseCMessias">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseCMessias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCMessias&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCMessias&layout=compact&langs_count=7&theme=tokyonight"/></div>
 
 ### Contatos  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center"> 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josecmessias)
