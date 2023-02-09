@@ -16,7 +16,7 @@
 🚀 Skills 
 <div style="display: inline_block"><br/>
 <a href="https://github.com/JoseCMessias">
-<img align="center" alt="C-Sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img align="center" alt="C-Sharp" src="https://img.shields.io/badge/C%23-2975ad?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img align="center" alt="DOTNET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 <!-- <img align="center" alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"> -->
 </div><br/>
@@ -24,15 +24,15 @@
 ⚡ Databases 
 <div style="display: inline_block"><br/>
 <a href="https://github.com/JoseCMessias">
-<img align="center" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> 
-<img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="center" alt="Microsoft SQL Server" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </div><br/>
   
 👩‍💻 Frameworks 
 <div style="display: inline_block"><br/>
 <a href="https://github.com/JoseCMessias">
 <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-<img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-2975ad?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div><br/>
  
 <h2 align="center"><img width="200" src="lang.gif"></h2>
