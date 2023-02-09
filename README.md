@@ -38,13 +38,14 @@
 <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">   
 <!-- [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/JoseCMessias) -->
  </div><br/>
-    
+ 
+##
 <div align="center">
 <a href="https://github.com/JoseCMessias">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseCMessias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCMessias&layout=compact&langs_count=7&theme=tokyonight"/></div>
    
-<h2 align="center"><img width="200" src="lang.gif"></h2>
+<!-- <h2 align="center"><img width="200" src="lang.gif"></h2> -->
     
 <br/>
     
