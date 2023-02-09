@@ -24,15 +24,15 @@
 ⚡ Databases 
 <div style="display: inline_block"><br/>
 <a href="https://github.com/JoseCMessias">
-<img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white">
-<img align="center" alt="Microsoft SQL Server" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+<img align="center" alt="Microsoft SQL Server" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-2975ad?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+<img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-5C2D91?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br/>
   
 👩‍💻 Frameworks 
 <div style="display: inline_block"><br/>
 <a href="https://github.com/JoseCMessias">
-<img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 <img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-2975ad?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 </div><br/>
  
 <h2 align="center"><img width="200" src="lang.gif"></h2>
