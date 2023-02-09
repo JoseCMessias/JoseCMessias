@@ -11,7 +11,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseCMessias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCMessias&layout=compact&langs_count=7&theme=tokyonight"/></div>
 
-### contacts  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center"> 
+### contacts <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center"> 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josecmessias)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josecmessias22@gmail.com)
 
