@@ -10,8 +10,8 @@
 <a href="https://github.com/JoseCMessias">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseCMessias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCMessias&layout=compact&langs_count=7&theme=tokyonight"/></div>
- 
- 
+
+ <h2 align="center"><img width="200" src="lang.gif"></h2>
 
 🚀 Skills 
 <div style="display: inline_block"><br/>
@@ -34,7 +34,8 @@
 <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 <img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div><br/>
-    
+ 
+<h2 align="center"><img width="200" src="lang.gif"></h2>
 <br/>
     
 ![Snake animation](https://github.com/JoseCMessias/JoseCMessias/blob/output/github-contribution-grid-snake.svg)
