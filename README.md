@@ -2,7 +2,7 @@
 
 <h3 align="center"> <img width="25" src="left.gif"> Olá <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'> esse é o meu Perfil <img width="25" src="right.gif"></h3>
 
-<h3 align="center"> Me chamo José Messias, eu sou estudante de ADC e Back-end Developer <img width="30" src="right.gif"></h3>
+<h3 align="center"> Me chamo José Messias, eu sou estudante do curso de ADS e Back-end Developer <img width="30" src="right.gif"></h3>
 
 <img align=center src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
  
