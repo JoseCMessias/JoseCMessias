@@ -19,7 +19,7 @@
 <!-- <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> -->
 </div><br/>
     
-### Databases
+### Databases <picture><img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/about_me.gif?raw=true" width = 35px></picture>
 <a href="https://github.com/JoseCMessias">
 <img align="center" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> 
 <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -31,7 +31,7 @@
 <img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div><br/>
     
-<!-- ### Operational system <picture><img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/about_me.gif?raw=true" width = 35px></picture>
+<!-- ### Operational system 
 <a href="https://github.com/JoseCMessias">  
 <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">   
  </div><br/> -->
