@@ -19,8 +19,6 @@
 <img align="center" alt="DOTNET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 <img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <!-- <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> -->
-<img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-<img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div><br/>
     
 ### Databases
@@ -28,10 +26,19 @@
 <img align="center" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> 
 <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br/>
+  
+### Frameworks
+<a href="https://github.com/JoseCMessias">  
+<img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+<img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</div><br/>
     
-### Operational system <picture><img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/about_me.gif?raw=true" width = 35px></picture> 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/JoseCMessias)
- 
+### Operational system <picture><img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/about_me.gif?raw=true" width = 35px></picture>
+<a href="https://github.com/JoseCMessias">  
+<img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">   
+<!-- [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/JoseCMessias) -->
+ </div><br/>
+    
 <div align="center">
 <a href="https://github.com/JoseCMessias">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseCMessias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
