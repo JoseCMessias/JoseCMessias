@@ -38,4 +38,4 @@
     
 ![Snake animation](https://github.com/JoseCMessias/JoseCMessias/blob/output/github-contribution-grid-snake.svg)
     
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer"/>
