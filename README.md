@@ -3,9 +3,7 @@
 <h3 align="center"><img width="25" src="left.gif"> Olá <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'> esse é o meu Perfil <img width="25" src="right.gif"></h3>
 <h3 align="center"> Me chamo José Messias e sou Back-end Developer <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp"> <img width="25" src="right.gif">
 
-<!-- <img align=center src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-<h2 align="center"><img width="200" src="lang.gif"></h2>  -->
-
+<img align=center src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 ### contacts <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center"> 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josecmessias)
@@ -33,12 +31,11 @@
 <img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div><br/>
     
-### Operational system <picture><img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/about_me.gif?raw=true" width = 35px></picture>
+<!-- ### Operational system <picture><img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/about_me.gif?raw=true" width = 35px></picture>
 <a href="https://github.com/JoseCMessias">  
 <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">   
-<!-- [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/JoseCMessias) -->
- </div><br/>
- 
+ </div><br/> -->
+    
 ##
 <div align="center">
 <a href="https://github.com/JoseCMessias">
