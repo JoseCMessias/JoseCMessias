@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient) 
 
 <h3 align="center"> <img width="25" src="left.gif"> Olá <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'> esse é o meu Perfil <img width="25" src="right.gif"></h3>
 
