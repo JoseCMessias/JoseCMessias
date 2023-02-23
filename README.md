@@ -16,7 +16,7 @@
 <a href="https://github.com/JoseCMessias">
 <img align="center" alt="C-Sharp" src="https://img.shields.io/badge/C%23-0c6305?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img align="center" alt="DOTNET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-<!-- <img align="center" alt="Ruby" src="https://img.shields.io/badge/Ruby-0c6305?style=for-the-badge&logo=ruby&logoColor=white"> -->
+<img align="center" alt="Ruby" src="https://img.shields.io/badge/Ruby-0c6305?style=for-the-badge&logo=ruby&logoColor=white"> 
 </div><br/>
     
 ⚡ Databases 
