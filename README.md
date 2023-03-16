@@ -1,15 +1,15 @@
 <div style="display: inline_block">
-<img width=100% alt="Higher" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient">
+<img width=100% alt="Superior" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient">
 </div>
 
 <h3 align="center"> <img width="25" src="left.gif"> Olá <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'> esse é o meu Perfil <img width="25" src="right.gif"></h3>
 <h3 align="center"> Me chamo José Messias, sou estudante de ADS e Back-end Developer <img width="30" src="right.gif"></h3>
-<!-- <img align=center src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /> -->
 
 <div align="center"><br/><br/>
 <a href="https://github.com/JoseCMessias">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoseCMessias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCMessias&layout=compact&langs_count=7&theme=tokyonight"/></div>
+ 
 <h2 align="center"><img width="200" src="lang.gif"></h2>
 
 🚀 Skills 
@@ -41,6 +41,7 @@
 <a href="mailto:josecmessias22@outlook.com"> 
 <img align="center" alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-5C2D91?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 </div><br/>
+ 
 <h2 align="center"><img width="200" src="lang.gif"></h2>
  
 <div style="display: inline_block">
@@ -48,5 +49,5 @@
 </div><br/>
     
 <div style="display: inline_block">
-<img width=100% alt="bottom" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer">
+<img width=100% alt="inferior" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer">
 </div>
