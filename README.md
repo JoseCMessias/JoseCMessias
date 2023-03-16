@@ -36,11 +36,6 @@
 </div><br/>
 <h2 align="center"><img width="200" src="lang.gif"></h2>
  
-<!--
-[![Gmail](https://img.shields.io/badge/Gmail-0c6305?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josecmessias22@gmail.com)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-5C2D91?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:josecmessias22@outlook.com)
--->
- 
 <div align="center">
 <a href="https://github.com/JoseCMessias">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseCMessias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
