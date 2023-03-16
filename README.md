@@ -27,7 +27,7 @@
 <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 </div><br/>
 
-📧 Contatos
+📧 Contacts
 <div style="display: inline_block"><br/>
 <a href="mailto:josecmessias22@gmail.com"> 
 <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-0c6305?style=for-the-badge&logo=gmail&logoColor=white">
