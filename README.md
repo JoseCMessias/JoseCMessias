@@ -4,12 +4,6 @@
 <h3 align="center"> Me chamo José Messias, sou estudante de ADS e Back-end Developer <img width="30" src="right.gif"></h3>
 
 <img align=center src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
- 
-<div align="center">
-<a href="https://github.com/JoseCMessias">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseCMessias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCMessias&layout=compact&langs_count=7&theme=tokyonight"/></div>
-<h2 align="center"><img width="200" src="lang.gif"></h2>
 
 🚀 Skills 
 <div style="display: inline_block"><br/>
@@ -28,14 +22,21 @@
   
 👩‍💻 Frameworks 
 <div style="display: inline_block"><br/>
-<a href="https://github.com/JoseCMessias">
+<a href="mailto:josecmessias22@gmail.com"> <!-- "https://github.com/JoseCMessias" -->
 <img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0c6305?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 </div><br/>
-<h2 align="center"><img width="200" src="lang.gif"></h2>
 
+📧 Contatos
 [![Gmail](https://img.shields.io/badge/Gmail-0c6305?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josecmessias22@gmail.com)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-5C2D91?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:josecmessias22@outlook.com)
+<h2 align="center"><img width="200" src="lang.gif"></h2>
+ 
+<div align="center">
+<a href="https://github.com/JoseCMessias">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseCMessias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCMessias&layout=compact&langs_count=7&theme=tokyonight"/></div>
+<h2 align="center"><img width="200" src="lang.gif"></h2>
     
 <!-- ![Snake animation](https://github.com/JoseCMessias/JoseCMessias/blob/output/github-contribution-grid-snake.svg) -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer"/>
