@@ -2,8 +2,14 @@
 
 <h3 align="center"> <img width="25" src="left.gif"> Olá <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'> esse é o meu Perfil <img width="25" src="right.gif"></h3>
 <h3 align="center"> Me chamo José Messias, sou estudante de ADS e Back-end Developer <img width="30" src="right.gif"></h3>
-<h2 align="center"><img width="200" src="lang.gif"></h2>
+
 <!-- <img align=center src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /> -->
+
+<div align="center">
+<a href="https://github.com/JoseCMessias">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseCMessias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCMessias&layout=compact&langs_count=7&theme=tokyonight"/></div>
+<h2 align="center"><img width="200" src="lang.gif"></h2>
 
 🚀 Skills 
 <div style="display: inline_block"><br/>
@@ -36,11 +42,9 @@
 </div><br/>
 <h2 align="center"><img width="200" src="lang.gif"></h2>
  
-<div align="center">
-<a href="https://github.com/JoseCMessias">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseCMessias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCMessias&layout=compact&langs_count=7&theme=tokyonight"/></div>
-<h2 align="center"><img width="200" src="lang.gif"></h2>
+<div style="display: inline_block"><br/>
+<img align="center" alt="Snake animation" src="https://github.com/JoseCMessias/JoseCMessias/blob/output/github-contribution-grid-snake.svg">
+</div><br/>
     
 <!-- ![Snake animation](https://github.com/JoseCMessias/JoseCMessias/blob/output/github-contribution-grid-snake.svg) -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer"/>
