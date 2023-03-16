@@ -40,13 +40,13 @@
 <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-0c6305?style=for-the-badge&logo=gmail&logoColor=white">
 <a href="mailto:josecmessias22@outlook.com"> 
 <img align="center" alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-5C2D91?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-</div><br/>
+</div>
  
 <h2 align="center"><img width="200" src="lang.gif"></h2>
  
 <div style="display: inline_block">
 <img width=100% alt="Snake animation" src="https://github.com/JoseCMessias/JoseCMessias/blob/output/github-contribution-grid-snake.svg">
-</div><br/>
+</div>
     
 <div style="display: inline_block">
 <img width=100% alt="inferior" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer">
