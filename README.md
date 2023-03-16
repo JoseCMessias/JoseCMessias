@@ -37,5 +37,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-0c6305?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josecmessias22@gmail.com)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-5C2D91?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:josecmessias22@outlook.com)
     
-![Snake animation](https://github.com/JoseCMessias/JoseCMessias/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/JoseCMessias/JoseCMessias/blob/output/github-contribution-grid-snake.svg) -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer"/>
