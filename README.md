@@ -15,16 +15,16 @@
 🚀 Skills 
 <div style="display: inline_block">
 <a href="https://github.com/JoseCMessias">
-<img align="center" alt="C-Sharp" src="https://img.shields.io/badge/C%23-0c6305?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img align="center" alt="DOTNET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+<img align="center" alt="C-Sharp" src="https://img.shields.io/badge/C%23-337D75?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img align="center" alt="DOTNET" src="https://img.shields.io/badge/.NET-7145A1?style=for-the-badge&logo=.net&logoColor=white">
 <!-- <img align="center" alt="Ruby" src="https://img.shields.io/badge/Ruby-5C2D91?style=for-the-badge&logo=ruby&logoColor=white"> -->
 </div><br/>
     
 ⚡ Databases 
 <div style="display: inline_block">
 <a href="https://github.com/JoseCMessias">
-<img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-0c6305?style=for-the-badge&logo=mysql&logoColor=white">
-<img align="center" alt="Microsoft SQL Server" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-5C2D91?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+<img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-337D75?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="center" alt="Microsoft SQL Server" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-7145A1?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </div><br/>
   
 <!-- 👩‍💻 Frameworks 
@@ -37,9 +37,9 @@
 📧 Contacts
 <div style="display: inline_block">
 <a href="mailto:josecmessias22@gmail.com"> 
-<img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-0c6305?style=for-the-badge&logo=gmail&logoColor=white">
+<img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-337D75?style=for-the-badge&logo=gmail&logoColor=white">
 <a href="mailto:josecmessias22@outlook.com"> 
-<img align="center" alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-5C2D91?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+<img align="center" alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-7145A1?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 </div>
  
 <h2 align="center"><img width="200" src="lang.gif"></h2>
