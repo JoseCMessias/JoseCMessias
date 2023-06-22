@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center"> <img width="25" src="left.gif"> Olá <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'> esse é o meu Perfil <img width="25" src="right.gif"></h3>
-<h3 align="center"> Me chamo José Messias, sou estudante de ADS e Back-end Developer <img width="30" src="right.gif"></h3>
+<h3 align="center"> Sou José Messias, estudante de ADS em busca de conhecimento e oportunidades no mundo da tecnologia <img width="30" src="right.gif"></h3>
 
 <div align="center"><br/><br/>
 <a href="https://github.com/JoseCMessias">
