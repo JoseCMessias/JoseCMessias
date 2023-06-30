@@ -1,53 +1,66 @@
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/JoseCMessias/cdc3d82c19f3bb3d1c83208ed814ed30/raw/9f7174ce118eefd5885a1debc34f2dfea7be85e7/githubcard.svg"/>
+<h1 align="left">Hi 
+  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'>, I'm José Messias
+</h1>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=JoseCMessias&color=yellow" alt="Profile views" /> 
+</p>
+
+
+- 🔥 An ADS student looking for knowledge and opportunities in the world of technology
+
+- 🔭 I am currently consolidating my knowledge in C#, .NET, SQL, HTML, CSS and JavaScript
+
+- 😄 Pronouns: He/His
+
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
 <div style="display: inline_block">
-<img width=100% alt="Superior" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient">
+<a href="https://github.com/JoseCMessias">
+  <img align="center" alt="C-Sharp" src="https://img.shields.io/badge/-C%20Sharp-05122A?style=flat&logo=c-sharp">
+  <img align="center" alt=".NET" src="https://img.shields.io/badge/-.NET%20Core-05122A?style=flat&logo=.net">
+  <img align="center" alt="HTML" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
+  <img align="center" alt="Git" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
+  <img align="center" alt="GitHub" src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github">
+  <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">
+  <img align="center" alt="Microsoft Sql Server" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoftsqlserver">
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql">
+  <!-- <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"> -->
 </div>
 
-<h3 align="center"> <img width="25" src="left.gif"> Olá <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'> esse é o meu Perfil <img width="25" src="right.gif"></h3>
-<h3 align="center"> Sou José Messias, estudante de ADS em busca de conhecimento e oportunidades no mundo da tecnologia <img width="30" src="right.gif"></h3>
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center"><br/><br/>
-<a href="https://github.com/JoseCMessias">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoseCMessias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCMessias&layout=compact&langs_count=7&theme=tokyonight"/></div>
- 
-<h2 align="center"><img width="200" src="lang.gif"></h2>
-
-🚀 Skills 
-<div style="display: inline_block">
-<a href="https://github.com/JoseCMessias">
-<img align="center" alt="C-Sharp" src="https://img.shields.io/badge/C%23-0c6305?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img align="center" alt="DOTNET" src="https://img.shields.io/badge/.NET-7145A1?style=for-the-badge&logo=.net&logoColor=white">
-<!-- <img align="center" alt="Ruby" src="https://img.shields.io/badge/Ruby-5C2D91?style=for-the-badge&logo=ruby&logoColor=white"> -->
-</div><br/>
-    
-⚡ Databases 
-<div style="display: inline_block">
-<a href="https://github.com/JoseCMessias">
-<img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-0c6305?style=for-the-badge&logo=mysql&logoColor=white">
-<img align="center" alt="Microsoft SQL Server" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-7145A1?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-</div><br/>
-  
-<!-- 👩‍💻 Frameworks 
-<div style="display: inline_block">
-<a href="https://github.com/JoseCMessias"> 
-<img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0c6305?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-</div><br/> -->
-
-📧 Contacts
-<div style="display: inline_block">
-<a href="mailto:josecmessias22@gmail.com"> 
-<img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-0c6305?style=for-the-badge&logo=gmail&logoColor=white">
-<a href="mailto:josecmessias22@outlook.com"> 
-<img align="center" alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-7145A1?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-</div>
- 
-<h2 align="center"><img width="200" src="lang.gif"></h2>
- 
-<div style="display: inline_block">
-<img width=100% alt="Snake animation" src="https://github.com/JoseCMessias/JoseCMessias/blob/output/github-contribution-grid-snake.svg">
+  <a href="https://github.com/JoseCMessias">
+  <img height="205em" src="https://github-readme-stats.vercel.app/api?username=JoseCMessias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCMessias&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
     
+<br><br>
+
+## 📧 Contact
+
+<p align="left" style="background:yellow">
+  <a href="https://www.linkedin.com/in/josecmessias/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-JoseCMessias-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+  <a href="mailto:josecmessias22@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="linkedin"/>
+  </a>
+  <a a href="mailto:josecmessias22@outlook.com">
+    <img align="center" src="https://img.shields.io/badge/-Microsoft%20Outlook-05122A?style=flat&logo=microsoftoutlook"/>
+  </a>
+</p>
+
+<br><br>
+
+## ⚙ &nbsp;GitHub Commits
+
 <div style="display: inline_block">
-<img width=100% alt="inferior" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer">
+  <img width=100% alt="Snake animation" src="https://github.com/JoseCMessias/JoseCMessias/blob/output/github-contribution-grid-snake.svg">
 </div>
