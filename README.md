@@ -48,7 +48,7 @@
 
 ## 📧 Contact
 
-<p align="left" style="background:yellow">
+<div>
   <a href="https://www.linkedin.com/in/josecmessias/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-JoseCMessias-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
@@ -58,8 +58,8 @@
   <a a href="mailto:josecmessias22@outlook.com">
     <img align="center" src="https://img.shields.io/badge/-Microsoft%20Outlook-05122A?style=flat&logo=microsoftoutlook"/>
   </a>
-</p>
-
+</div>
+  
 <br><br>
 
 ## ⚙ &nbsp;GitHub Commits
