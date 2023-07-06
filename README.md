@@ -12,7 +12,7 @@
 
 - 🔥 An ADS student looking for knowledge and opportunities in the world of technology
 
-- 🔭 I am currently consolidating my knowledge in C#, .NET, SQL, HTML, CSS and JavaScript
+- 🔭 I am currently consolidating my knowledge in C#, .NET, SQL, HTML and CSS
 
 - 😄 Pronouns: He/His
 
