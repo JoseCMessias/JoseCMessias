@@ -43,8 +43,11 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JoseCMessias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCMessias&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-    
+
 <br><br>
+
+## 💡 Portfólio
+[José Messias](https://josecmessias.github.io/portfolio/)
 
 ## 📧 Contact
 
@@ -59,10 +62,12 @@
     <img align="center" src="https://img.shields.io/badge/-Microsoft%20Outlook-05122A?style=flat&logo=microsoftoutlook"/>
   </a>
 </div>
-  
+
+<!-- 
+
 <br><br>
 
-<!-- ## ⚙ &nbsp;GitHub Commits
+## ⚙ &nbsp;GitHub Commits
 
 <div style="display: inline_block">
   <img width=100% alt="Snake animation" src="https://github.com/JoseCMessias/JoseCMessias/blob/output/github-contribution-grid-snake.svg">
