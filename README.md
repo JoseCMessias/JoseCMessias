@@ -15,6 +15,8 @@
 - 🔭 I am currently consolidating my knowledge in C#, .NET, SQL, HTML and CSS
 
 - 😄 Pronouns: He/His
+  
+- 💡 [Portfólio](https://josecmessias.github.io/portfolio/)
 
 <br><br>
 
@@ -45,9 +47,6 @@
 </div>
 
 <br><br>
-
-## 💡 Portfólio
-[José Messias](https://josecmessias.github.io/portfolio/)
 
 ## 📧 Contact
 
