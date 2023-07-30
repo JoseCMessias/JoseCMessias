@@ -16,7 +16,7 @@
 
 - 😄 Pronouns: He/His
   
-- 💡 [Portfólio](https://josecmessias.github.io/portfolio/)
+- 💡 [Meu Portfólio](https://josecmessias.github.io/portfolio/)
 
 <br><br>
 
