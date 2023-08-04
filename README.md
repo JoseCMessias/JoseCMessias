@@ -25,7 +25,7 @@
 <div style="display: inline_block">
 <a href="https://github.com/JoseCMessias">
   <img align="center" alt="C-Sharp" src="https://img.shields.io/badge/-C%20Sharp-05122A?style=flat&logo=c-sharp">
-  <img align="center" alt=".NET" src="https://img.shields.io/badge/-.NET%20Core-05122A?style=flat&logo=.net">
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"> 
   <img align="center" alt="HTML" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
   <img align="center" alt="CSS" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
   <img align="center" alt="Git" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
@@ -33,7 +33,6 @@
   <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">
   <img align="center" alt="Microsoft Sql Server" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoftsqlserver">
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql">
-  <!-- <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"> -->
 </div>
 
 <br><br>
