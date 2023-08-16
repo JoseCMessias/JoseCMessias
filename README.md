@@ -10,13 +10,13 @@
 </p>
 
 
-- 🔥 An ADS student looking for knowledge and opportunities in the world of technology
+- 🔥 Um aluno da ADS em busca de conhecimento e oportunidades no mundo da tecnologia
 
-- 🔭 I am currently consolidating my knowledge in JavaScript, HTML, CSS and SQL
+- 🔭 Atualmente estou consolidando meus conhecimentos em JavaScript, HTML, CSS e SQL
 
-- 😄 Pronouns: He/His
+- 😄 Pronomes: Ele/Dele
   
-- 💡 [My Portfólio](https://josecmessias.github.io/portfolio/)
+- 💡 [Meu Portfólio](https://josecmessias.github.io/portfolio/)
 
 <br><br>
 
