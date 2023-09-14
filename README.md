@@ -63,11 +63,8 @@
 
 <br><br>
 
-
-## ⚙ &nbsp;GitHub Commits
-
-![snake gif](https://github.com/JoseCMessias/JoseCMessias/blob/output/github-contribution-grid-snake.svg)
 <!--
+## ⚙ &nbsp;GitHub Commits
 <div style="display: inline_block">
   <img width=100% alt="Snake animation" src="https://github.com/JoseCMessias/JoseCMessias/blob/output/github-contribution-grid-snake.svg">
 </div>
