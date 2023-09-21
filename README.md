@@ -26,6 +26,7 @@
 <a href="https://github.com/JoseCMessias">
   <img align="center" alt="C-Sharp" src="https://img.shields.io/badge/-C%20Sharp-05122A?style=flat&logo=c-sharp">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"> 
+  <img align="center" alt="C-Sharp" src="https://img.shields.io/badge/-react-05122A?style=flat&logo=react">
   <img align="center" alt="HTML" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
   <img align="center" alt="CSS" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
   <img align="center" alt="Git" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
