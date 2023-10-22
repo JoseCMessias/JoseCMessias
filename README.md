@@ -61,12 +61,3 @@
     <img align="center" src="https://img.shields.io/badge/-Microsoft%20Outlook-05122A?style=flat&logo=microsoftoutlook">
   </a>
 </div>
-
-<br><br>
-
-<!--
-## ⚙ &nbsp;GitHub Commits
-<div style="display: inline_block">
-  <img width=100% alt="Snake animation" src="https://github.com/JoseCMessias/JoseCMessias/blob/output/github-contribution-grid-snake.svg">
-</div>
--->
