@@ -1,6 +1,6 @@
 <!--<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/JoseCMessias/4ef85cf5b8383a607e5294ad0c7b773d/raw/825591d9c1f77f839fe5b359a25e8f3fb8d513a1/githubcard.svg"/> -->
 
-<img align="right" height="250em" src="assets/giff.webp">
+<img align="right" height="290em" src="assets/giff.webp">
 
 <h1 align="left">Hi 
   <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'>, I'm José Messias
