@@ -15,8 +15,6 @@
 - 🔭 Atualmente estou consolidando meus conhecimentos em HTML, CSS, JavaScript, React, C# e Banco de Dados
 
 - 😄 Pronomes: Ele/Dele
-  
-- 💡 [Meu Portfólio](https://josecmessias.github.io/portfolio/)
 
 <br><br>
 
