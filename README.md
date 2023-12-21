@@ -11,7 +11,7 @@
 
 - 🔥 Um aluno da ADS em busca de conhecimento e oportunidades no mundo da tecnologia
 
-- 🔭 Atualmente estou consolidando meus conhecimentos em HTML, CSS, JavaScript, React, C# e Banco de Dados
+- 🔭 Atualmente estou consolidando meus conhecimentos em HTML, CSS, JavaScript, C# e Banco de Dados
 
 - 😄 Pronomes: Ele/Dele
 
