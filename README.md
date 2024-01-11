@@ -1,4 +1,4 @@
-<img align="right" height="220em" src="assets/gitfullstack.gif">
+<img align="right" height="250em" src="assets/6M8R.gif">
 
 <h1 align="left">Hi 
   <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'>, I'm José Messias
