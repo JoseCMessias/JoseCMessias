@@ -9,7 +9,7 @@
 
 - 🔥 Um aluno da ADS em busca de conhecimento e oportunidades no mundo da tecnologia
 
-- 🔭 Atualmente estou consolidando meus conhecimentos em flutter, C# e Banco de Dados
+- 🔭 Atualmente estou consolidando meus conhecimentos em Flutter, C# e Banco de Dados
 
 
 <br>
