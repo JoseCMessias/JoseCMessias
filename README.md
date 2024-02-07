@@ -17,18 +17,11 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-<div style="display: inline_block">
-<a href="https://github.com/JoseCMessias">
-  <img align="center" alt="C-Sharp" src="https://img.shields.io/badge/-C%20Sharp-05122A?style=flat&logo=c-sharp">
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"> 
-  <img align="center" alt="C-Sharp" src="https://img.shields.io/badge/-react-05122A?style=flat&logo=react">
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
-  <img align="center" alt="Git" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
-  <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">
-  <img align="center" alt="Microsoft Sql Server" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoftsqlserver">
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql">
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,vscode,visualstudio,postman,git,mysql,mongodb" />
+  </a>
+</p>
 
 <br><br>
 
@@ -44,14 +37,11 @@
 
 ## 📧 Contact
 
-<div>
+<p align="center">
   <a href="https://www.linkedin.com/in/josecmessias/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-JoseCMessias-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+    <img src="https://skillicons.dev/icons?i=,linkedin" />
   </a>
-  <a href="mailto:josecmessias22@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="linkedin">
+  <a href="mailto:josecmessias22@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a a href="mailto:josecmessias22@outlook.com">
-    <img align="center" src="https://img.shields.io/badge/-Microsoft%20Outlook-05122A?style=flat&logo=microsoftoutlook">
-  </a>
-</div>
+</p>
