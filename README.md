@@ -16,7 +16,7 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-<p align="center">
+<p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,vscode,visualstudio,postman,git,mysql,mongodb" />
   </a>
@@ -24,9 +24,9 @@
 
 ## 📧 Contact
 
-<p align="center">
+<p align="start">
   <a href="https://www.linkedin.com/in/josecmessias/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=,linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:josecmessias22@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
