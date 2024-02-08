@@ -1,4 +1,4 @@
-<img align="right" height="250em" src="assets/unnamed.gif">
+<img align="right" height="320em" src="assets/unnamed.gif">
 
 <h1 align="left">Hi 
   <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'>, I'm José Messias
@@ -7,10 +7,8 @@
   <img src="https://komarev.com/ghpvc/?username=JoseCMessias&color=yellow" alt="Profile views" /> 
 </p>
 
-- 🔥 Um aluno da ADS em busca de conhecimento e oportunidades no mundo da tecnologia
-
-- 🔭 Atualmente estou consolidando meus conhecimentos em Flutter, C# e Banco de Dados
-
+ Sou um entusiasta da tecnologia e estudante de Análise e Desenvolvimento de Sistemas, em constante busca por novos aprendizados e oportunidades.
+ Atualmente estou consolidando meus conhecimentos em Flutter, C# e Banco de Dados.
 
 <br>
 
