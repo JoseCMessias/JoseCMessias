@@ -16,7 +16,7 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img height="40em" src="https://skillicons.dev/icons?i=cs,dotnet,azure,vscode,visualstudio,postman,git,mysql,mongodb" />
+    <img height="40em" src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,azure,mysql,mongodb,postman,git" />
   </a>
 </p>
 
