@@ -8,7 +8,7 @@
 </p>
 
  Sou um entusiasta da tecnologia e estudante de Análise e Desenvolvimento de Sistemas, em constante busca por novos aprendizados e oportunidades.
- Atualmente estou consolidando meus conhecimentos em Flutter, C# e Banco de Dados.
+ Atualmente estou consolidando meus conhecimentos em Reactjs, Nodejs e Banco de Dados.
 
 <br>
 
@@ -16,7 +16,7 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img height="40em" src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,azure,mysql,mongodb,postman,git" />
+    <img height="40em" src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,vscode,mysql,mongodb,postman,git" />
   </a>
 </p>
 
