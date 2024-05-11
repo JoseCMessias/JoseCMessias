@@ -8,7 +8,7 @@
 </p>
 
  Sou um entusiasta da tecnologia e estudante de Análise e Desenvolvimento de Sistemas, em constante busca por novos aprendizados e oportunidades.
- Atualmente estou consolidando meus conhecimentos em Reactjs, Nodejs e Banco de Dados.
+ Atualmente estou consolidando meus conhecimentos em Angular e Nodejs.
 
 <br>
 
