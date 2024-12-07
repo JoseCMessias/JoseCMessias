@@ -8,7 +8,7 @@
 </p>
 
  Sou um entusiasta da tecnologia e estudante de Análise e Desenvolvimento de Sistemas, em constante busca por novos aprendizados.
- Atualmente estou consolidando meus conhecimentos em Angular e Nodejs.
+ Atualmente estou consolidando meus conhecimentos em Java, Sprint Boot, Angular e Sql.
 
  [Portfolio](https://portfolio-angular-fmss.vercel.app/)
 
@@ -17,7 +17,7 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img height="40em" src="https://skillicons.dev/icons?i=js,html,css,nodejs,angular,vscode,mysql,mongodb,postman" />
+    <img height="40em" src="https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,angular,mysql" />
   </a>
 </p>
 
