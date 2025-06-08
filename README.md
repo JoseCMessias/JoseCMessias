@@ -12,8 +12,13 @@
 
  [Portfolio](https://portfolio-angular-fmss.vercel.app/)
 
+## &nbsp;Certifications
+<h3>Microsoft Azure:</h3>
+<div>
+  <img height="60em" object-fit: contain;" src="https://ensino.fundacaofat.org.br/uploads/2022/07/664fd91b66c61aaffa301f06d8136825.png" alt="Azure AI Fundamentals" title="Azure AI Fundamentals" />
+<div/>
 
-## 🛠 &nbsp;Tech Stack
+## &nbsp;Tech Stack
 
 <p align="start">
   <a href="https://skillicons.dev">
@@ -21,7 +26,7 @@
   </a>
 </p>
 
-## 📧 Contact
+## &nbsp;Contact
 
 <p align="start">
   <a href="https://www.linkedin.com/in/josecmessias/" target="_blank">
@@ -32,7 +37,7 @@
   </a>
 </p>
 
-## ⚙️ &nbsp;GitHub Analytics
+## &nbsp;GitHub Analytics
 
 <div align="center"><br/><br/>
   <a href="https://github.com/JoseCMessias">
