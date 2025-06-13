@@ -15,7 +15,7 @@
 ## &nbsp;Certifications
 <h3>Microsoft Azure:</h3>
 <div>
-  <img height="60em" object-fit: contain;" src="https://ensino.fundacaofat.org.br/uploads/2022/07/664fd91b66c61aaffa301f06d8136825.png" alt="Azure AI Fundamentals" title="Azure AI Fundamentals" />
+  <img height="62em" style="max-width: 150; object-fit: contain;" src="https://github.com/user-attachments/assets/a2708245-b599-4d36-942a-a71adb34afac" alt="Azure Fundamentals" title="Azure Fundamentals" />
 <div/>
 
 ## &nbsp;Tech Stack
