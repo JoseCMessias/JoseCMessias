@@ -26,6 +26,7 @@
   </a>
 </p>
 
+<!--
 ## &nbsp;Contact
 
 <p align="start">
@@ -36,6 +37,7 @@
     <img height="40em" src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
+-->
 
 ## &nbsp;GitHub Analytics
 
